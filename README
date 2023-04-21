@@ -1,0 +1,21 @@
+This project is designed to allow users to download YouTube videos and save them locally to their computer. The application uses the popular Python library pytube to handle the downloading process.
+
+Requirements:
+
+Python 3.x
+pytube library
+An active internet connection
+Installation:
+
+Download and install Python from https://www.python.org/downloads/
+
+Open your terminal or command prompt and install the pytube library using the command pip install pytube
+Usage:
+
+Clone or download the project from the Github repository 
+Navigate to the project directory in your terminal or command prompt
+Run the command python downloader.py
+Follow the prompts to enter the YouTube video URL and choose the desired video format and resolution
+The video will be downloaded and saved to the project directory
+
+Note: This project is for educational purposes only and should not be used to violate YouTube's terms of service or copyright laws. Please respect the content creators and only download videos for personal use or with the owner's permission.
